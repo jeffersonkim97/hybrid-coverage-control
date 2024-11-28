@@ -2,7 +2,6 @@ import numpy as np
 import casadi
 import matplotlib.pyplot as plt
 from matplotlib import animation
-from plan_dubins import plan_dubins_path
 from scipy.spatial import Voronoi, voronoi_plot_2d
 from matplotlib import cm
 from matplotlib.colors import ListedColormap
